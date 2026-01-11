@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1768111179 source:d:\tp semester 3\tubes std\main.cpp
+	<iostream>
+	"kost.h"
+	<iomanip>
+	<vector>
+
+1768110881 source:d:\tp semester 3\tubes std\kost.cpp
+	"kost.h"
+	<iomanip>
+
+1768110833 d:\tp semester 3\tubes std\kost.h
+	<iostream>
+	<string>
+	<vector>
+
